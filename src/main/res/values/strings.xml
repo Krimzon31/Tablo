@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Битва за озеро ледяных оков</string>
+    <string name="btn_orda">Добавить очко</string>
+    <string name="btn_alliance">Добавить очко</string>
+    <string name="btn_sbros">Обнулить счёт</string>
+</resources>

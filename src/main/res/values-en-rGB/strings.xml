@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Battle for the Wintergrasp</string>
+    <string name="btn_orda">Add a point</string>
+    <string name="btn_alliance">Add a point</string>
+    <string name="btn_sbros">Reset counter</string>
+</resources>
